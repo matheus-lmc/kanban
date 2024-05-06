@@ -1,0 +1,21 @@
+.container {
+  display: flex;
+  min-height: 100vh;
+  min-width: 100vw;
+  flex-direction: column;
+}
+
+.content {
+  flex: 1;
+  display: flex;
+  padding: 1%;
+}
+
+.grid {
+  display: grid;
+  flex: 1;
+  border: solid 3px var(--color-dark-blue);
+  border-radius: 6px;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-rows: 1fr;
+}

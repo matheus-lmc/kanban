@@ -1,0 +1,30 @@
+:root {
+  --color-primary: #06234a;
+  --color-secondary: #361bd2;
+  --color-background: #f2f2e8;
+  --color-green: #2ecc71;
+  --color-blue: #2980b9;
+  --color-purple: #9b59b6;
+  --color-dark-blue: #0f284b;
+  --color-gray: #424242;
+  --color-red: #e51400;
+}
+
+* {
+  margin: 0;
+  border: 0;
+  padding: 0;
+  position: relative;
+  box-sizing: border-box;
+}
+
+body,
+html,
+#root {
+  height: 100vh;
+}
+
+body {
+  background-color: var(--color-background);
+  font-family: Poppins, Roboto, sans-serif;
+}
