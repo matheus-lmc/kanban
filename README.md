@@ -1,7 +1,7 @@
 <h1 align="center" >
 <img src="https://i.imgur.com/sRbhANY.png" alt="KanBan"/>
 </h1 >
-A site, made using React, that contains a [Kanban board](https://www.atlassian.com/agile/kanban/boards) for managing projects
+A site, made using React, that contains a Kanban board for managing projects
 
 ## Stack
 
